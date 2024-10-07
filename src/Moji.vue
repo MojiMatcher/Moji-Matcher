@@ -41,7 +41,7 @@
 
     <section id="section3" class="sectionTitle">
         <h1>Baixar</h1>
-        <p>Ficou interessado ?<br><br>Conhece alguém que precisa desse meio de comunicação para conhecer novas pessoas ? <br><br>Baixe agora o Moji Matcher!</p>
+        <p>Ficou interessado?<br><br>Conhece alguém que precisa desse meio de comunicação para conhecer novas pessoas?<br><br>Baixe agora o Moji Matcher!</p>
     </section>
 
 </template>
