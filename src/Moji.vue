@@ -6,6 +6,7 @@
             }
         }
     }
+    
 
 </script>
 
@@ -17,9 +18,9 @@
             </a>
         </div>
         <a href="#section1" class="section">Sobre</a>
-        <a href="#section2" class="section">Funcionamento</a>
+        <a href="#section2" class="section">Funcionalidades</a>
         <a href="#section3" class="section">Baixar</a>
-        <button id="header-button" onclick="window.location='www.google.com.br';">Experimente o Moji Matcher</button>
+        <button id="header-button" onclick="window.location='https://github.com/MojiMatcher/Moji-Matcher';">Experimente o Moji Matcher</button>
 
     </header>
 
@@ -35,12 +36,12 @@
 
     <section id="section2" class="sectionTitle">
         <h1>Funcionalidades</h1>
-        <p></p>
+        <p>O algoritmo de correspondência do Moji Matcher usa uma combinação de emojis inseridos pelo usuário e preferências para sugerir correspondências compatíveis.<br><br>A funcionalidade de bate-papo do Moji Matcher também é baseada em emojis, permitindo que os usuários se comuniquem uns com os outros usando uma vasta biblioteca de emojis.<br><br> O aplicativo inclui uma variedade de recursos para facilitar a conversa, como sugestões de emojis e um "correspondente de humor" que ajuda os usuários a encontrar alguém que esteja se sentindo da mesma forma.</p>
     </section>
 
     <section id="section3" class="sectionTitle">
         <h1>Baixar</h1>
-        <p>Descrição para baixar</p>
+        <p>Ficou interessado ?<br><br>Conhece alguém que precisa desse meio de comunicação para conhecer novas pessoas ? <br><br>Baixe agora o Moji Matcher!</p>
     </section>
 
 </template>
